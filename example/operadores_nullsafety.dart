@@ -1,5 +1,4 @@
 void main() {
-  String? olaa = null;
   Teste? teste;
 
   teste = Teste();
